@@ -1,6 +1,11 @@
 # GSoC_Work
 A brief report on GSoC'16 with Zulip
 
+Organization: Zulip
+Project Name : Overhauling Zulip website’s UX to handle large teams		
+Student Name: Kartik Maji
+Mentor: Neeraj Wahi and acrefoot		
+
 |Code Link   |Description   |Status   |Future possible works|Screenshots|
 |---|---|---|---|---|
 | https://github.com/zulip/zulip/pull/749/commits  |Narrowing to a non-existing stream should display a error message. Issue: https://github.com/zulip/zulip/issues/740 | Work in progress  |   |   |
