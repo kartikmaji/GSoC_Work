@@ -13,7 +13,7 @@ A brief report on GSoC'16 with Zulip
 
 |Code Link   |Description   |Status   |Future possible works|Screenshots|
 |---|---|---|---|---|
-| https://github.com/zulip/zulip/pull/749/commits  |Narrowing to a non-existing stream should display a error message. Issue: https://github.com/zulip/zulip/issues/740 | Work in progress  |   |   |
+| https://github.com/zulip/zulip/pull/749/commits  |**Narrowing to a non-existing stream should display a error message.**<br> When user narrows to any stream using search box. It gives subscribed streams as suggestion in a dropdown which works fine. But, if user narrows to a non existing stream say "ABC". It doesn't show any error message. User may think it as a simple empty stream which he/she isn't subscribed to. <br> Issue: https://github.com/zulip/zulip/issues/740 | Work in progress  |   |   |
 | https://github.com/zulip/zulip/pull/525/commits  | List # of subscribers for each stream (https://github.com/zulip/zulip/issues/483)   |  Work in progress |   |   |
 | https://github.com/zulip/zulip/pull/819/commits  |Pin favourite or important streams to top of stream list   |**Merged**   |Pin stream to always open. (https://github.com/zulip/zulip/pull/986) Issue:https://github.com/zulip/zulip/issues/292   |   |
 | https://github.com/zulip/zulip/pull/857/commits  |Add search box for searching people when creating new stream.   |**Merged**   |This feature is very slow in Production especially when organisation is large(~500 users). Issue: https://github.com/zulip/zulip/issues/1509, https://github.com/zulip/zulip/pull/1617/   |   |
