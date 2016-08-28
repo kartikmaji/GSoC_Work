@@ -5,6 +5,8 @@ A brief report on GSoC'16 with Zulip
 
 **Project Name**: Overhauling Zulip website’s UX to handle large teams
 
+**Abstract**: To improve existing features and add new features, to create a more robust and agile version of web version of Zulip which can handle large teams. A user will be able to use it more intuitively.
+
 **Student Name**: Kartik Maji
 
 **Mentor**: [Neeraj Wahi](https://github.com/neerajwahi) and [acrefoot](https://github.com/acrefoot)
