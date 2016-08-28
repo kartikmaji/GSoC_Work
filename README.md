@@ -24,3 +24,6 @@ A brief report on GSoC'16 with Zulip
 |https://github.com/zulip/zulip/pull/1204/commits |UI to details of message edit history like edited by, timestamp, edited text. |Work in progress |Fixing message edit history template. See https://github.com/zulip/zulip/issues/1406 |   |
 |https://github.com/zulip/zulip/pull/1432/commits |Don't allow users to mute a "mandatory" stream |Work in progress |Develop similar function where user cannot unsubscribe from mandatory stream. |   |
 |https://github.com/zulip/zulip/pull/986/commits |Mark stream to always remain open |Closed | |   |
+
+Note: Work in progress as on 25th August, 2016
+
